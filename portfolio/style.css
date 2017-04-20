@@ -63,8 +63,10 @@ a{
 	border:1px solid:yellow;
 	color: green;  
 }
-#leg {
+.leg {
 	background-color: #FFCCCC;
+	border: 0px none;
+}
 
 }
 #fieldset {
@@ -74,7 +76,10 @@ a{
 fieldset > legend {
     font-size: 1.25em;
     line-height: 2.5em;
-
+}
+.bioo fieldset{
+	border: 0px none;
+}
 #bioo{
 	margin:center;
 	background-color: #FFEBCD;
