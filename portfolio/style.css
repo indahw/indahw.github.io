@@ -1,0 +1,91 @@
+.body{
+ 	background: url(bg.jpg);
+ 	background-attachment: fixed;
+ 	background-size: 100%;
+ 	margin : auto;
+ 	height: 100vh;
+ 	}
+.body1 {
+	background-color: white;
+ 	background-attachment: fixed;
+ 	background-size: 100%;
+ 	margin : 30vh;
+ 	height: 50vh;
+
+}
+.body2 {
+	background: url(bg3.png);
+ 	background-attachment: fixed;
+ 	background-size: 100%;
+ 	margin : auto;
+ 	height: 100vh;
+}	
+
+a{
+	text-decoration: none;
+	color: brown;
+}
+
+.header{
+
+	text-decoration: none;
+	color: hotpink;
+	font-family: 'Dosis', sans-serif;
+	font-size: 25px;
+	/* display: inline-block; */
+	height: 10%;
+	width: auto;
+	text-align: right;
+	margin-right: 100px;
+}
+#gambar{
+	height: 15%;
+	width: 15%;
+}
+.align-right{
+	margin: auto;
+	text-align: center;
+}
+.nama {
+	text-align: center;
+	font-family: 'Pacifico', cursive;
+	font-size: 60px;
+}
+
+
+#isi{
+	background : url(odd.png) 0 0;
+}
+
+#edu{
+	font-family: verdana;
+	font-size: 24px;
+	border:1px solid:yellow;
+	color: green;  
+}
+#leg {
+	background-color: #FFCCCC;
+
+}
+#fieldset {
+    border: none;
+}
+
+fieldset > legend {
+    font-size: 1.25em;
+    line-height: 2.5em;
+
+#bioo{
+	margin:center;
+	background-color: #FFEBCD;
+}
+p{
+	font-family: verdana;
+	font-size: 14px;
+	position: relative;
+	color: black;  
+	margin: 0px;
+}
+.clear{
+    clear: both;
+}
